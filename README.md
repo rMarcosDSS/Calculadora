@@ -1,7 +1,7 @@
 <h1 align="center"> Calculadora </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Desafio #05, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
