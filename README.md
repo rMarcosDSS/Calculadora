@@ -14,7 +14,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="preview calculadora" src=".github/preview.jpg" width="100%">
+  <img alt="preview calculadora" src=".github/preview.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,5 +33,5 @@ realiza as operações matemáticas básicas.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1202607074523509182). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
